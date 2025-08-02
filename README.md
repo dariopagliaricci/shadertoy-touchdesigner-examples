@@ -1,7 +1,7 @@
 # Shadertoy to TouchDesigner Ports
 
 This is a collection of Shadertoy GLSL shaders ported to TouchDesigner.
-Each folder contains one shader port, with all necessary files to load and run in TouchDesigner.
+Each folder contains nested folders with all necessary files to load and run in TouchDesigner.
 
 ---
 
