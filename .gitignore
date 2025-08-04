@@ -1,0 +1,11 @@
+# Exclude folders and files containing "kaiavintr"
+*kaiavintr*/
+*kaiavintr*
+
+# TouchDesigner backup files (optional - commonly ignored)
+*.backup
+Backup/
+
+# System files (optional - commonly ignored)
+.DS_Store
+Thumbs.db
